@@ -1,0 +1,12 @@
+[package]
+name = "simple-stocks"
+version = "0.1.0"
+authors = ["Ivan Fraixedes <ivan@fraixed.es>"]
+description = "Tiny and simple library to control simple operations in the stock markets and for analyzing the gains and the losses"
+readem = "README.md"
+keywords = ["stocks", "stock-market"]
+license = "MIT"
+license-file = "LICENSE"
+maintenance = { status = "actively-developed" }
+
+[dependencies]
